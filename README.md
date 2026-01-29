@@ -40,7 +40,7 @@ This project demonstrates **object-oriented programming**, **graph algorithms**,
 ## Technologies Used
 - **Language:** C++ (OOP Concepts)  
 - **Libraries:** iostream, vector, list, string, queue, algorithm  
-- **Tools:** VS Code, Code::Blocks, Qt Creator  
+- **Tools:** VS Code, 
 - **Algorithms:** Dijkstra's Shortest Path, Sorting  
 
 
